@@ -136,7 +136,7 @@
 
 ## 😊 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](www.linkedin.com/in/pablo-escaño-martin-a26a6824b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/pablo-escaño-martin-a26a6824b/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/Pescano)
 
 <div align="center">
