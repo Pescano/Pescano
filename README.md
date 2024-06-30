@@ -1,13 +1,19 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2224F7&background=FFFFFF00&center=true&random=false&width=435&lines=Hi%2C+I%C2%B4m+Pablo+Esca%C3%B1o;Cybersecurity+Developer+%26+Analyst" alt="Typing SVG" /></a>
 </div>
+
 ## About me 👋
+
  - 👨‍🎓 Software Developer Student in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
  - 🖥 Network computer systems administrator
  - 🏖 Living in Málaga, Spain
 
  ## 42 Cursus
- [![paescano's 42 stats](https://badge.mediaplus.ma/binary/paescano?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+ 
+ <div align="center"
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/paescano?1337Badge=off&UM6P=off" alt="paescano's 42 stats" /></a>
+</div>
+
  42 is a globally recognized programming school that promotes a practical and collaborative approach to learning programming. The 42 training program is based on peer learning and working on practical projects.
 
  During my participation in the 42 cursus, I acquired the following knowledge and skills:
@@ -42,6 +48,8 @@
         <td>
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
         </td>
+    </tr>
+    <tr>
         <td><strong>Learning</strong></td>
         <td>
           <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,jquery,bootstrap" />
@@ -71,6 +79,8 @@
         <td>
             <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" />
         </td>
+    </tr>
+    <tr>
         <td><strong>Used before</strong></td>
         <td>
             <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse,vim" />
@@ -103,6 +113,8 @@
         <td>
             <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" />
         </td>
+    </tr>
+    <tr>
         <td><strong>Used before</strong></td>
         <td>
             <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -116,7 +128,7 @@
     <tr>
         <td><strong>Currently using</strong></td>
         <td>
-            <a href="https://skillicons.dev"><img src="powershell,bash" />
+            <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powershell,bash" />
         </td>
     </tr>
 </table>
