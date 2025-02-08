@@ -7,6 +7,7 @@
  - 👨‍🎓 Software Developer Student in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
  - 🖥 Network computer systems administrator
  - 🏖 Living in Málaga, Spain
+ - 👨‍💻 VSOC Technician at Hispasec systems
 
  ## 42 Cursus
  
